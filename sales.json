@@ -1,0 +1,37 @@
+[
+  {
+    "transaction_id": "T1001",
+    "employee_id": 102,
+    "sale_date": "2026-11-15",
+    "amount": 12500.5,
+    "region": "South"
+  },
+  {
+    "transaction_id": "T1002",
+    "employee_id": 105,
+    "sale_date": "2026-11-16",
+    "amount": 18750.0,
+    "region": "West"
+  },
+  {
+    "transaction_id": "T1003",
+    "employee_id": 102,
+    "sale_date": "2026-11-17",
+    "amount": 9200.0,
+    "region": "South"
+  },
+  {
+    "transaction_id": "T1004",
+    "employee_id": 101,
+    "sale_date": "2026-11-17",
+    "amount": 21000.0,
+    "region": "East"
+  },
+  {
+    "transaction_id": "T1005",
+    "employee_id": 103,
+    "sale_date": "2026-11-18",
+    "amount": 15750.75,
+    "region": "North"
+  }
+]

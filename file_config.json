@@ -1,0 +1,20 @@
+[
+  {
+    "file_name": "employees.csv",
+    "file_format": "csv",
+    "source_path": "input/employees.csv",
+    "target_folder": "bronze/csv"
+  },
+  {
+    "file_name": "sales.json",
+    "file_format": "json",
+    "source_path": "input/sales.json",
+    "target_folder": "bronze/json"
+  },
+  {
+    "file_name": "orders.parquet",
+    "file_format": "parquet",
+    "source_path": "input/orders.parquet",
+    "target_folder": "bronze/parquet"
+  }
+]

@@ -1,0 +1,6 @@
+order_id,product,quantity,unit_price
+O5001,Laptop,2,65000.0
+O5002,Keyboard,5,1200.0
+O5003,Monitor,3,14500.0
+O5004,Mouse,10,750.0
+O5005,Laptop,1,65000.0
